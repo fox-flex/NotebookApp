@@ -1,8 +1,9 @@
 """
 module to run Notebook app
+git repo: https://github.com/fox-flex/notebook-app.git
 """
 import sys
-from notebook0 import Note, Notebook
+from notebook0 import Notebook
 
 
 class Menu:
